@@ -1,8 +1,8 @@
 # Telegram Scraper 
-Python Script to Extract Messages, Media & More
+Python Script to Extract Members, Messages, Media & More
 
 # What is a Telegram Scraper?
-A powerful and easy-to-use Python script that scrapes messages, media (photos, videos, documents), and other data from public Telegram channels and groups using the Telethon library.
+A powerful and easy-to-use Python script that scrapes members, messages, media (photos, videos, documents), and other data from public Telegram channels and groups using the Telethon library.
 
 It supports:
 - Real-time message scraping
