@@ -1,13 +1,36 @@
 # Telegram Scraper 
 Python Script to Extract Messages, Media & More
+
+# What is a Telegram Scraper?
 A powerful and easy-to-use Python script that scrapes messages, media (photos, videos, documents), and other data from public Telegram channels and groups using the Telethon library.
 
+It supports:
+- Real-time message scraping
+- Media file downloading (photos, videos, documents, etc.)
+- Exporting data to CSV or JSON formats
+
+Version 3.0:
 **Major Performance Improvements:**
 - **5-10x faster scraping** with batch database operations
 - **3x faster media downloads** with parallel processing (up to 3 concurrent downloads)
 - **10-20x faster database operations** through connection pooling and batch insertions
 - **Memory-efficient exports** that handle large datasets without running out of memory
 - **Enhanced progress reporting** with actual message counts and percentages
+
+# 👤 Who is this for?
+This tool is ideal for:
+- Researchers analyzing social trends or political discourse
+- Data scientists needing Telegram datasets
+- Digital marketers tracking content in public channels
+- Journalists or OSINT analysts monitoring group activity
+- Anyone interested in archiving Telegram content
+
+# 🕒 When should you use it?
+Use this script when you need to:
+- Collect a large number of Telegram messages for analysis
+- Monitor Telegram groups for specific keywords or events
+- Archive content before it gets deleted
+- Extract media from channels without using Telegram manually
 
 **New Features:**
 - **Message count display** in channel view
@@ -23,7 +46,7 @@ A powerful and easy-to-use Python script that scrapes messages, media (photos, v
 - Improved flood control handling
 - Periodic state saving (every 50 messages)
 
-## Features 🚀
+## New Features 🚀
 
 - Scrape messages from multiple Telegram channels
 - Download media files (photos, documents) with parallel processing
@@ -237,8 +260,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 This tool is for educational purposes only. Make sure to:
 - Respect Telegram's Terms of Service
-
-For any questions, feel free to contact us on t.me/SubAdder
 - Obtain necessary permissions before scraping
 - Use responsibly and ethically
 - Comply with data protection regulations
+
+The tool may not be worker, because it is not worked on anymore, contact us for the up to date tool: t.me/SubAdder
+For any questions, feel free to contact us on t.me/SubAdder
+
+<a href="https://https://github.com/Telegram-Scraper-2025/Telegram-Scraper"><img alt="Cute Count" src="https://count.getloli.com/get/@Scrapertg2025?theme=asoul" /></a>
