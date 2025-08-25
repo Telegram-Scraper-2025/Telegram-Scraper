@@ -264,7 +264,7 @@ This tool is for educational purposes only. Make sure to:
 - Use responsibly and ethically
 - Comply with data protection regulations
 
-The tool may not be worker, because it is not worked on anymore, contact us for the up to date tool: t.me/SubAdder
-For any questions, feel free to contact us on t.me/SubAdder
+The tool may not be worker, because it is not worked on anymore, contact us for the up to date tool: [https://t.me/SubAdder](https://t.me/SubAdder)
+For any questions, feel free to contact us on [https://t.me/SubAdder](https://t.me/SubAdder)
 
 <a href="https://https://github.com/Telegram-Scraper-2025/Telegram-Scraper"><img alt="Cute Count" src="https://count.getloli.com/get/@Scrapertg2025?theme=asoul" /></a>
