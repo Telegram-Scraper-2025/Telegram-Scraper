@@ -10,14 +10,14 @@ It supports:
 - Exporting data to CSV or JSON formats
 
 Version 3.0:
-**Major Performance Improvements:**
+**Major Performance Improvements of Telegram Scraper:**
 - **5-10x faster scraping** with batch database operations
 - **3x faster media downloads** with parallel processing (up to 3 concurrent downloads)
 - **10-20x faster database operations** through connection pooling and batch insertions
 - **Memory-efficient exports** that handle large datasets without running out of memory
 - **Enhanced progress reporting** with actual message counts and percentages
 
-# 👤 Who is this for?
+# 👤 Who is the Telegram Scraper for?
 This tool is ideal for:
 - Researchers analyzing social trends or political discourse
 - Data scientists needing Telegram datasets
@@ -25,14 +25,14 @@ This tool is ideal for:
 - Journalists or OSINT analysts monitoring group activity
 - Anyone interested in archiving Telegram content
 
-# 🕒 When should you use it?
+# 🕒 When should you use Telegram Scraper?
 Use this script when you need to:
 - Collect a large number of Telegram messages for analysis
 - Monitor Telegram groups for specific keywords or events
 - Archive content before it gets deleted
 - Extract media from channels without using Telegram manually
 
-**New Features:**
+**New Features of Telegram Scraper:**
 - **Message count display** in channel view
 - **Configurable download concurrency** (adjustable in code)
 - **Better error handling** with exponential backoff retry mechanism
@@ -46,7 +46,7 @@ Use this script when you need to:
 - Improved flood control handling
 - Periodic state saving (every 50 messages)
 
-## New Features 🚀
+## New Features of Telegram Scraper 🚀
 
 - Scrape messages from multiple Telegram channels
 - Download media files (photos, documents) with parallel processing
@@ -138,7 +138,7 @@ When scraping a channel for the first time, please note:
 - Messages are stored in the database in batches for optimal performance
 - **Media downloads run in parallel** (up to 3 simultaneous downloads) for faster processing
 
-## Usage 📝
+## Usage of Telegram Scraper 📝
 
 The script provides an interactive menu with the following options:
 
